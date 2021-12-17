@@ -1,0 +1,90 @@
+body{
+    background-color: #333333;
+}
+
+label{
+    width: 150px;
+    display: inline-block;
+    color: white;
+}
+
+.solMenu{
+    width: 400px;
+    margin-top: 270px;
+    margin-left: 200px;
+    
+}
+
+
+h1{
+    color: white;
+    padding-top: 15px;
+    padding-left: 60x;
+    
+}
+
+.urunTxt{
+    background-color: white;
+    outline: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.urunListe{
+    
+    width: 600px;
+    height: 400px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+.hizala{
+    clear: both;
+    display: flex;
+}
+th{
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+td{
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+table{
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 4px;
+    
+}
+
+.btnHiza{
+    clear: both;
+    display: flex;
+}
+#btnEkle{
+    width: 150px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 15px;
+    border-color: #6b747f;
+    outline: none;
+    background: #546579;
+    color : white; 
+    margin-left: 15px;
+    font-size: 15px;
+}
+#btnGeri{
+     width: 150px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 15px;
+    border-color: #6b747f;
+    outline: none;
+    background: #546579;
+    color : white; 
+    font-size: 15px;
+}

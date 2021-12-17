@@ -1,0 +1,87 @@
+body{
+    background-color: #333333;
+}
+.solMenu{
+    height: 400px;
+    width: 400px;
+    margin-top: 100px;
+    display: flex;
+            justify-content: center;
+            
+            
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 88px;
+    border-radius: 15px;
+    border-color: #6b747f;
+    outline: none;
+    background: #546579;
+    color : white;
+    align-items: center;
+}
+h1{
+    color: white;
+    padding-top: 15px;
+    padding-left: 60x;
+    
+}
+.bos{
+    height: 400px;
+    width: 400px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+.hizala{
+    clear: both;
+    display: flex;
+    
+}
+table{
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 4px;
+    width: 580px;
+    
+}
+th{
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+td{
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+.urunListe{
+    
+    width: 800px;
+    height: 400px;
+
+    margin-left: 600px;
+    margin-top: 300px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    margin-left: 230px;
+}
+.onay{
+    margin-left: 460px;
+    align-items: right;
+    margin-top: 15px;
+    color:white;
+    background: #546579;
+    border-radius: 7px;
+    width: 120px;
+    height: 30px;
+    outline: none;
+    border-color: #6b747f;
+   
+}

@@ -1,0 +1,37 @@
+body{
+    background-color: #333333;
+}
+.solMenu{
+    height: 400px;
+    width: 400px;
+    background-color: #636e80;
+    margin-top: 160px;
+    display: flex;
+            justify-content: center;
+            
+            
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 88px;
+    border-radius: 15px;
+    border-color: #6b747f;
+    outline: none;
+    background: #546579;
+    color : white;
+    align-items: center;
+}
+h1{
+    color: white;
+    padding-top: 15px;
+    padding-left: 60x;
+    
+}
+.bos{
+    height: 400px;
+    width: 400px;
+    background-color: #636e80;
+    margin-top: 200px;
+}
